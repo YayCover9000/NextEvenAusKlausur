@@ -17,7 +17,7 @@ public class NextEven {
         }
     }
 
-    // Versuche eigene Method zu schreiben, aber es kommt zu rundungsfehlern sodas die while schleife nicht funktioniert
+    //  Versuche eigene Method zu schreiben, aber es kommt zu rundungsfehlern sodas die while schleife nicht funktioniert
     /*
     static void getNextEven(double p) {
         double q = p;
